@@ -1,8 +1,8 @@
-# Planejamento do Aplicativo MoodCapture ED
+# Planejamento do Aplicativo Pausa Mind
 
 ## 1. Introdução
 
-O aplicativo "MoodCapture ED" visa ser uma ferramenta inovadora para a detecção precoce de alterações emocionais relacionadas a distúrbios alimentares em jovens adultos. Utilizando inteligência artificial e visão computacional para analisar expressões faciais, o aplicativo oferecerá feedback empático, histórico emocional visual e recursos de acolhimento, tudo isso com foco na privacidade e no uso offline, e com uma linguagem acessível e acolhedora para um público sensível a temas de autoestima e imagem corporal.
+O aplicativo "Pausa Mind" visa ser uma ferramenta inovadora para a detecção precoce de alterações emocionais relacionadas a distúrbios, entre diversos(Consulte um Médico) em jovens adultos. Utilizando inteligência artificial e visão computacional para analisar expressões faciais, o aplicativo oferecerá feedback empático, histórico emocional visual e recursos de acolhimento, tudo isso com foco na privacidade e no uso offline, e com uma linguagem acessível e acolhedora para um público sensível a temas de autoestima e imagem corporal.
 
 ## 2. Pesquisa e Fundamentação
 
